@@ -1,0 +1,10 @@
+---
+title: "week 4 part 1 - CI & T-tests"
+author: "Mukta Kelkar"
+date: "10/28/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
